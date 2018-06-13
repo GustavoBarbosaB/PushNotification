@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "270685966566",
+    "firebase_url": "https://push-example-59f99.firebaseio.com",
+    "project_id": "push-example-59f99",
+    "storage_bucket": "push-example-59f99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270685966566:android:ebd6ebfbd85c5d2d",
+        "android_client_info": {
+          "package_name": "io.github.gustavobarbosa.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270685966566-ujl4g60e7bbia7n3i73s86pogehd61lp.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "270685966566-ujl4g60e7bbia7n3i73s86pogehd61lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNAn8N2Oqdri_Tl8B6TfB4FkSeYXCRYtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
